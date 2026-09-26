@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="123.jpg" alt="Profile Banner" width="100%">
+  <img src="123.png" alt="Profile Banner" width="100%">
 </p>
